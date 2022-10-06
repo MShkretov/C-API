@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+uMhRe1d71cvXm4PcXL9AFBR3h9RAd0vMMErPu+Gp/uCSE8WobohiB0DFkte4DgGz2v/V1zVrNvpp1c5jCeVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\api1\\.NET 5 REST API Tutorial\\BlazorWebAssemblyTutorial\\BlazorProject\\Shared\\BlazorProject.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
